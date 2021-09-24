@@ -1,2 +1,2 @@
 # NotesApp
-Clean Architecture App
+Clean Architecture Note App (MVVM / CRUD / Jetpack Compose) - Android
